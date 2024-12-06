@@ -1,0 +1,1 @@
+This repository contains a simple Tcl procedure that demonstrates a common error: not handling index out of range for list access. The bug.tcl file shows the error, and bugSolution.tcl provides a corrected version with more robust error handling.
